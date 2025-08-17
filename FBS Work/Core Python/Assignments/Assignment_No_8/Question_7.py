@@ -1,4 +1,4 @@
-### 7. Write a program to find sum of digits of a number. 
+# 7. Write a program to find sum of digits of a number. 
 
 def sum_digits(num):
     total = 0
@@ -9,4 +9,5 @@ def sum_digits(num):
     return total
 
 n = int(input("Enter a number: "))
+
 print(f"Sum of digits is: {sum_digits(n)}")
