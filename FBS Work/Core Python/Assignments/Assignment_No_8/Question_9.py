@@ -1,4 +1,4 @@
-### 9. Write a program to check if entered number is a palindrome or not
+# 9. Write a program to check if entered number is a palindrome or not
 
 def reverse_number(num):
     rev = 0
@@ -18,4 +18,5 @@ result = palindrome(n)
 if result:
     print(f"{n} is a palindrome number.")
 else:
+
     print(f"{n} is not a palindrome number.")
